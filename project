@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+    <title>Cybersecurity in Modern Technology</title>
+</head>
+<body>
+    <h1>Esra Tonka, CSIT 100, Webography Project</h1>
+    <p>Date: 11.05.24</p>
+    
+    <h2>Cybersecurity in Modern Technology</h2>
+    
+    <ul>
+        <li><a href="subtopic1.html">Cybersecurity Threats</a></li>
+        <li><a href="subtopic2.html">Cybersecurity Solutions</a></li>
+        <li><a href="subtopic3.html">Future of Cybersecurity</a></li>
+    </ul>
+    
+    <p><a href="paper.doc"><iframe src="https://montclair0-my.sharepoint.com/personal/tonkae1_montclair_edu/_layouts/15/Doc.aspx?sourcedoc={a5cd8c53-a05d-47ab-8a1b-6fd35445e913}&amp;action=embedview" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></a></p>
+    <p><a href="presentation.ppt"<iframe src="https://montclair0-my.sharepoint.com/personal/tonkae1_montclair_edu/_layouts/15/Doc.aspx?sourcedoc={fe6d234a-ca96-4b63-be2d-da5d83ccf669}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></a></p>
+</body>
+</html>
